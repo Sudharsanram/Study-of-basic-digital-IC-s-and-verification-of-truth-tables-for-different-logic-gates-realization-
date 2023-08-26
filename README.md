@@ -83,7 +83,8 @@ Logic symbol & Truthtable
 
 
 Output:
-![DE-EX-01](https://github.com/Sudharsanram/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393980/fc37ed87-f4f8-402d-88a5-4e0cc08b2913)
+![image](https://github.com/Sudharsanram/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393980/1427a78e-d1d9-445f-812d-a4f717febafd)
+
 ![image](https://github.com/Sudharsanram/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393980/5639e426-81cd-4b5d-aa84-60d82068111a)
 
 
